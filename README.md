@@ -1,0 +1,1 @@
+An example of Spring Boot application based on the Weather API which focuses on testing practices.

@@ -1,0 +1,45 @@
+{
+  "base": "stations",
+  "clouds": {
+    "all": 40
+  },
+  "cod": 200,
+  "coord": {
+    "lat": 37.3824,
+    "lon": -5.9761
+  },
+  "dt": 1741266507,
+  "id": 2510911,
+  "main": {
+    "feels_like": 18.46,
+    "grnd_level": 1008,
+    "humidity": 70,
+    "pressure": 1012,
+    "sea_level": 1012,
+    "temp": 18.71,
+    "temp_max": 19.65,
+    "temp_min": 17.95
+  },
+  "name": "Seville",
+  "sys": {
+    "country": "ES",
+    "id": 2011488,
+    "sunrise": 1741243694,
+    "sunset": 1741285341,
+    "type": 2
+  },
+  "timezone": 3600,
+  "visibility": 10000,
+  "weather": [
+    {
+      "description": "partiellement nuageux",
+      "icon": "03d",
+      "id": 802,
+      "main": "Clouds"
+    }
+  ],
+  "wind": {
+    "deg": 50,
+    "speed": 1.54
+  }
+}
